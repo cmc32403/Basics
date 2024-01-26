@@ -1,1 +1,3 @@
- Update: Fri Jan 26 12:31:07 EST 2024
+# CS3704 SE Basics Workshop
+Christina Casey
+"Hello Github!"
